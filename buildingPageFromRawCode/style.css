@@ -9,23 +9,36 @@ body{
 	font-family: arial;
 	font-size: 14px;
 	line-height: 18px;
+	background-color: gray;
 }
 
 .template{
 	width: 960px;
-	background-color: gray;
+	margin: 0 auto;
 }
 
 header{
-
+	height: 85px;
+	background-color: black;
+	color: white;
 }
 
 header h2{
-
+	margin: auto;
+	text-align: center;
+	font-size: 40px;
+	padding-top: 30px;
 }
 
 nav{
+	height: 30px;
+	background-color: white;
+}
 
+nav p{
+	padding-left: 30px;
+	font-size: : 20px;
+	padding-top: 5px;
 }
 
 .contentSection{
