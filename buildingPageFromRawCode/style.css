@@ -15,6 +15,7 @@ body{
 .template{
 	width: 960px;
 	margin: 0 auto;
+	overflow: hidden;
 }
 
 header{
@@ -28,11 +29,12 @@ header h2{
 	text-align: center;
 	font-size: 40px;
 	padding-top: 30px;
+	font-weight: bold;
 }
 
 nav{
 	height: 30px;
-	background-color: white;
+	background-color: pink;
 }
 
 nav p{
@@ -42,13 +44,35 @@ nav p{
 }
 
 .contentSection{
-	
+	background-color: white;
+}
+
+.sideBar{
+	width: 255px;
+	background-color: #BBB9BA;
+	float: left;
+	margin-top: 15px;
+	padding: 10px;
+}
+
+.mainContent{
+	width: 650px;
+	background-color: #DFDFDF;
+	float: right;
+	padding: 10px;
+	margin: 15px 0px 15px 15px;
 }
 
 footer{
-
+	height: 90px;
+	background-color: black;
 }
 
 footer h3{
-
+	color: white;
+	margin: auto;
+	text-align: center;
+	font-size: 40px;
+	padding-top: 40px;
+	font-weight: bold;
 }
