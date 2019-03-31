@@ -13,7 +13,7 @@ feel free for use the source code and contribute for your personal use and satis
   <li>Sublime text</li>
 </ol>
 <h3>Basic Page Model: </h3>
-<img src="/images/Basic_model.jpg" alt="page model" style="width: 300px;height: 400px">
+<img src="images/Basic_model.jpg" alt="page model" style="width: 300px;height: 400px">
 <h3>Content Pattern: </h3>
 <ul>
   <li>Modulized web page content</li>
